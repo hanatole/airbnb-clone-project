@@ -220,5 +220,8 @@ up development.
 
 ## 👩🏻‍💻 Installing in Development
 
-1. Clone the repository: `git clone git@github.com:hanatole/airbnb-clone-project.git`
+1. Clone the repository ssh or https:
+    > **ssh**: `git clone git@github.com:hanatole/airbnb-clone-project.git`
+
+    > **https**: `git clone https://github.com/hanatole/airbnb-clone-project.git`
 2. Navigate to the project directory: `cd airbnb-clone-project`
