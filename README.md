@@ -11,7 +11,7 @@ A RESTful backend API built with Django and Django REST Framework (DRF), replica
 5. Review System: Users can leave ratings and feedback for properties, hosts, and guests.
 6. Data Optimization: Ensure fast and efficient data retrieval with optimized database design.
 
-## 👥 Team Roles and Responsibilities
+## 👥 Team Roles
 
 | Role                  | Responsibilities                                                                                                                                                                      |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -151,7 +151,7 @@ A RESTful backend API built with Django and Django REST Framework (DRF), replica
     
     - A booking typically has one payment record.
 
-## 🚀 Features Breakdown
+## 🚀 Feature Breakdown
 
 - 🔐 **User Authentication** — JWT-based login, signup, and profile management  
 - 🏘️ **Property Listings** — Create, update, and browse listings  
@@ -220,7 +220,7 @@ up development.
 
 ## 👩🏻‍💻 Installing in Development
 
-1. Clone the repository ssh or https:
+1. Clone the repository using ssh or https:
     > **ssh**: `git clone git@github.com:hanatole/airbnb-clone-project.git`
 
     > **https**: `git clone https://github.com/hanatole/airbnb-clone-project.git`
